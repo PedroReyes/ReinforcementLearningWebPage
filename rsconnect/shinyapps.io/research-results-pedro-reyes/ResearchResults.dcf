@@ -1,0 +1,10 @@
+name: ResearchResults
+title:
+account: research-results-pedro-reyes
+server: shinyapps.io
+appId: 110653
+bundleId: 663831
+url: https://research-results-pedro-reyes.shinyapps.io/ResearchResults/
+when: 1483033987.28039
+asMultiple: FALSE
+asStatic: FALSE
